@@ -4,7 +4,7 @@
   # =============================================================
 
 
-# --- 1. EL CONTEXTO CLÍNICO: NUESTRA COHORTE ---
+# --- 1. EL CONTEXTO CLÍNICO: MUESTRA COHORTE ---
 # Imaginemos que hemos recolectado datos de 50 pacientes en un consultorio.
 set.seed(2026) 
 datos_clinicos <- data.frame(
