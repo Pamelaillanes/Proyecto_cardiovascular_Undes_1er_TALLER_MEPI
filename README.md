@@ -1,4 +1,4 @@
-# Proyecto_Cardiovascular_Undes_1er_TALLER_MEPI_PIllanes
+# Proyecto_Cardiovascular_Uandes_1er_TALLER_MEPI_PIllanes
 ===========================================================
   # ESTUDIO: FACTORES DE RIESGO CARDIOVASCULAR 
   # =============================================================
